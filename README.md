@@ -5,11 +5,11 @@
 </p>
 -->
 
-![Cover](https://github.com/alnahian2003/alnahian2003/assets/61485238/4fe0e2e6-f4e4-4f86-b4e1-2a293e61d55c)
+![Cover]([https://github.com/alnahian2003/alnahian2003/assets/61485238/4fe0e2e6-f4e4-4f86-b4e1-2a293e61d55c](https://github.com/hameemkay/hameemkay/blob/efce0f36a80baf16a282a5d2655c8176794a5309/Hameem_banner.png))
 
 <h1 align="center">Hello World, 👋, I'm Hameem! </h1>
 <p align="center">
-🔥 I'm a passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
+🔥 A Passionate Wordpress Developer from <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
 </p>
 
 
