@@ -5,7 +5,7 @@
 </p>
 -->
 
-![Cover]([https://github.com/alnahian2003/alnahian2003/assets/61485238/4fe0e2e6-f4e4-4f86-b4e1-2a293e61d55c](https://github.com/hameemkay/hameemkay/blob/efce0f36a80baf16a282a5d2655c8176794a5309/Hameem_banner.png))
+![Cover](github.com/hameemkay/hameemkay/blob/main/Hameem_banner.png?raw=true)
 
 <h1 align="center">Hello World, 👋, I'm Hameem! </h1>
 <p align="center">
@@ -28,7 +28,6 @@
 </p>
 
 <p align="center">
-<a href="https://getcomposer.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="composer" width="60" height="60"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="60" height="60"/> </a>
 <a href="https://livewire.laravel.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" alt="livewire" width="60" height="60"/> </a>
@@ -46,7 +45,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a>
 </p>
 
 <br>
