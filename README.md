@@ -5,7 +5,7 @@
 </p>
 -->
 
-![Cover](github.com/hameemkay/hameemkay/blob/main/Hameem_banner.png?raw=true)
+![Cover](https://raw.githubusercontent.com/hameemkay/hameemkay/refs/heads/main/Hameem_banner.png)
 
 <h1 align="center">Hello World, 👋, I'm Hameem! </h1>
 <p align="center">
